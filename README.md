@@ -54,8 +54,8 @@ conda install opencv pandas matplotlib
 ### 2. 💾 Clone and Prepare Repository
 
 ```bash
-git clone https://github.com/yourusername/your-yolo-project.git
-cd your-yolo-project
+git clone https://github.com/alakhirnayan/Customized_YOLO-V3_for_Real_Time_Small_Large_Object_Detection.git
+cd Customized_YOLO-V3_for_Real_Time_Small_Large_Object_Detection
 ```
 
 ### 3. 📂 Download Dataset
